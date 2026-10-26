@@ -7,6 +7,10 @@ AGENTS.md
 node_modules/
 *.log
 
+# GNOME Shell extension build output
+schemas/gschemas.compiled
+*.zip
+
 # OS / editor
 .DS_Store
 Thumbs.db

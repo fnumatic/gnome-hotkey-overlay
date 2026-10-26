@@ -1,0 +1,8 @@
+{
+  "name": "Hotkey Overlay",
+  "description": "Shows a Niri-style overlay with live keyboard shortcuts from GNOME and PaperWM.",
+  "uuid": "hotkey-overlay@unf",
+  "settings-schema": "org.gnome.shell.extensions.hotkey-overlay",
+  "shell-version": ["51"],
+  "version": 1
+}

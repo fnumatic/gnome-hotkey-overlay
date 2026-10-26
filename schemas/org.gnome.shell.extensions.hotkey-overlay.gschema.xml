@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.hotkey-overlay"
+          path="/org/gnome/shell/extensions/hotkey-overlay/">
+    <key name="toggle-overlay" type="as">
+      <default><![CDATA[['<Super>k']]]></default>
+      <summary>Toggle the keyboard shortcut overlay</summary>
+      <description>
+        Keyboard shortcut that opens and closes the shortcut overlay.
+      </description>
+    </key>
+  </schema>
+</schemalist>
