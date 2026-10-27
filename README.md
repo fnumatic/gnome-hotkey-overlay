@@ -93,4 +93,4 @@ live settings; only the labels and group names are defined by the extension.
 
 ## License
 
-Not specified.
+MIT. See [LICENSE](LICENSE).
